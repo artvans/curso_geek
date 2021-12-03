@@ -1,1 +1,1 @@
-web: gunicorn django_udemy.wsgi --log-file -
+web: gunicorn django_udemy wsgi --log-file -
